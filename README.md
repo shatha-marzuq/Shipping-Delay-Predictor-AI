@@ -1,2 +1,2 @@
 # Shipping-Delay-Predictor-AI
-An end-to-end Machine Learning project that predicts delivery delays and provides AI-driven logistics advice using Random Forest and Gradio.
+A comprehensive Machine Learning solution that predicts shipping delays and offers AI-powered logistics recommendations. Built with Random Forest and an interactive Gradio dashboard.
