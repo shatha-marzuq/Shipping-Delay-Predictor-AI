@@ -31,6 +31,5 @@ This project provides an end-to-end Machine Learning solution to predict shipmen
 ---
 
 ## 💻 How to Run
-1. **Clone the repository:**
-   ```bash
+1. Clone the Repository First, download the project files by cloning the repository from GitHub:   ```bash
    git clone [https://github.com/shatha/Shipping-Delay-Predictor-AI.git](https://github.com/shatha/Shipping-Delay-Predictor-AI.git)
