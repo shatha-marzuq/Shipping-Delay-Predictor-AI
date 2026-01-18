@@ -25,7 +25,7 @@ This project provides an end-to-end Machine Learning solution to predict shipmen
 ---
 
 ## 📸 Dashboard Preview
-*(Upload your screenshot to GitHub and replace the link below)*
+
 ![Dashboard Screenshot](your_image_link_here)
 
 ---
